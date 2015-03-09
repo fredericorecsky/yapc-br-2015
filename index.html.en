@@ -5,8 +5,13 @@
         <link rel="stylesheet" type="text/css" href="css.css">
     </head>
     <body>
+        <div class="panel" style="float:left">
+        </div>
         <div class="panel">
-            <h1>Yapc::br 2015 - Taubaté SP</h1>
+            <h1>
+                <img src="/caixaazul.jpg" height="42" width="42" style="display: inline-block">
+                Yapc::br 2015 - Taubaté SP
+            </h1>
 
             <h2>18th, 19th, 20th of September of 2015</h2>
 
@@ -72,6 +77,26 @@
             </p>
 
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3671.6935375880016!2d-45.570119!3d-23.035021999999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccf8e5273737dd%3A0x4643474a03f3de19!2sGran+Continental+Hotel!5e0!3m2!1sen!2sus!4v1425317515238" width="400" height="300" frameborder="0" style="border:0"></iframe>
+        </div>
+
+        <div class="panel">
+            <h2> Contact us </h2>
+
+            <p>
+                The main contact way now is email: cartas at frederico me
+            </p>
+
+            <h2> Help </h2>
+
+            <p>
+                We need help to do some tasks, feel free to check out 
+                how on:
+            </p>
+            
+            <a href="/tasks.html">
+                Task List
+            </a>
+
         </div>
 
     </body>
