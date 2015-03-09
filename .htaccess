@@ -1,0 +1,4 @@
+
+DirectoryIndex index.html.var
+AddHandler type-map .var
+

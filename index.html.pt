@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title>Yapc::br 2015 - Taubaté - SP </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css.css">
+    </head>
+    <body>
+        <div class="panel">
+            <h1>Yapc::br 2015 - Taubaté SP</h1>
+
+            <h2>18, 19 e 20 de Setembro de 2015</h2>
+
+            <p>
+                Yapc é uma conferencia Perl onde a comunidade se reune em
+                tornos de temas relacionados a linguagem Perl. Esse ano o
+                foco do evento é a propria comunidade e sua infraestrutura,
+                modulos, codigo, Perl Mongers e desenvolvimento usando 
+                Perl.
+            </p>
+
+        </div>
+        <div class="panel">
+            <h2>Tema: Perl é minha comunidade! </h2>
+
+            <p>
+                O tema desse ano é a propria comunidade, nesse classico
+                evento onde todo ano nos encontramos vamos falar da linguagem
+                e das ferramentas que nos fazem felizes ( quase ) todo dia.
+            </p>
+
+            <ul>
+                <li> Topicos relacionados </li>
+                <li> Perl Moderno </li>
+                <li> CPAN </li>
+                <li> Perl Mongers </li>
+            </ul>
+
+            <p>
+                A abertura da chamadas  de trabalhos iniciará junto com a
+                abertura das inscrições.
+            </p>
+        </div>
+
+        <div class="panel">
+        <h2> Inscrições </h2>
+
+        O formato das inscrições será o mesmo do ano passado,
+        o inicio das vendas será dia 15 de março.
+
+        <ul>
+            <li>
+                <h3>Inscrição Full - Hospedagem, Evento e comida.</h3>
+                A inscrição Full inclui dois dias de hospedagem,
+                o evento e as refeições durante o evento.
+            </li>
+            <li>
+                <h3>Inscrição apenas para o Evento</h3>
+                É cobrada apenas a entrada para o evento,
+                outros custos ficam por conta do participante.
+            </li>
+            <li>
+                <h3>Inscrição com desconto</h3>
+                Destinada a estudantes, ela é metade do preço
+                da inscrição para apenas o evento.
+            </li>
+        </ul>
+        </div>
+        <div class="panel">
+            <h2>Localização</h2>
+
+            <p>
+                O Hotel fica localizado no Jardim das Nações, bairro
+                proximo do centro, proxima a Dutra e de facil acesso.
+            </p>
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3671.6935375880016!2d-45.570119!3d-23.035021999999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccf8e5273737dd%3A0x4643474a03f3de19!2sGran+Continental+Hotel!5e0!3m2!1sen!2sus!4v1425317515238" width="400" height="300" frameborder="0" style="border:0"></iframe>
+        </div>
+
+    </body>
+</html>

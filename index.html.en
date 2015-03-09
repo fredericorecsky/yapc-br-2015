@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <title>Yapc::br 2015 - Taubaté - SP </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css.css">
+    </head>
+    <body>
+        <div class="panel">
+            <h1>Yapc::br 2015 - Taubaté SP</h1>
+
+            <h2>18th, 19th, 20th of September of 2015</h2>
+
+            <p>
+                Yapc is a Perl conference where the community joins to
+                discuss themes related with Perl Language. This year the
+                focus of this event is the Perl community itself and
+                it is infrascruture. Modules, cpan, Qa, Perl Mongers and
+                development using Perl.
+            </p>
+
+        </div>
+        <div class="panel">
+            <h2>Theme: Perl Core and Community </h2>
+
+            <p>
+                We would like to discuss the core and infrastructure 
+                of your beloved language.
+            </p>
+
+            <ul>
+                <li> Suggested Topics </li>
+                <li> Modern Perl </li>
+                <li> CPAN </li>
+                <li> Perl Mongers </li>
+                <li> Frameworks </li>
+            </ul>
+
+            <p>
+                We are going to open the call for papers as soon we
+                open the inscritions
+            </p>
+        </div>
+
+        <div class="panel">
+        <h2> Register </h2>
+
+        The Venue will have the same format as last year,
+        the kickstart will be on 15th of march.
+
+        <ul>
+            <li>
+                <h3>Full - Event, Hotel and Food.</h3>
+                Includes two days of hotel, in same hotel as the
+                event. Also includes a dinner and lunch.
+            </li>
+            <li>
+                <h3>Only the Event</h3>
+                Ticket only for the Event
+            </li>
+            <li>
+                <h3>Event for Students</h3>
+                Half of the price for students
+            </li>
+        </ul>
+        </div>
+        <div class="panel">
+            <h2>Conference Location</h2>
+
+            <p>
+                The Hotel Venue is located at the center of city,
+                close to the main roads.
+            </p>
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3671.6935375880016!2d-45.570119!3d-23.035021999999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ccf8e5273737dd%3A0x4643474a03f3de19!2sGran+Continental+Hotel!5e0!3m2!1sen!2sus!4v1425317515238" width="400" height="300" frameborder="0" style="border:0"></iframe>
+        </div>
+
+    </body>
+</html>
