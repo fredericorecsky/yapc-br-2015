@@ -13,44 +13,55 @@
                 Yapc::br 2015 - Taubaté SP
             </h1>
 
-            <h2>18th, 19th, 20th of September of 2015</h2>
+            <h2>
+                18-20 Sept 2015
+            </h2>
 
             <p>
-                Yapc is a Perl conference where the community joins to
+                YAPC is a Perl conference where the community joins to
                 discuss themes related with Perl Language. This year the
                 focus of this event is the Perl community itself and
-                it is infrascruture. Modules, cpan, Qa, Perl Mongers and
-                development using Perl.
+                the CPAN. This includes modules, Perl QA, Perl Mongers
+                and development using Perl.
             </p>
 
         </div>
         <div class="panel">
-            <h2>Theme: Perl Core and Community </h2>
+            <h2>Theme: CPAN and Perl Community </h2>
 
             <p>
-                We would like to discuss the core and infrastructure 
-                of your beloved language.
+                This year is the 15th aniversary of CPAN,
+                our beloved library that provides a lot of code to us.
             </p>
 
+            <p>
+                Creating modules, uploading it, creating tests that is
+                about feeding CPAN
+            </p>
+
+            <h3> Suggested Topics </h3>
             <ul>
-                <li> Suggested Topics </li>
+                <li> Creating and Presenting new modules </li>
+                <li> Tests </li>
                 <li> Modern Perl </li>
-                <li> CPAN </li>
                 <li> Perl Mongers </li>
                 <li> Frameworks </li>
             </ul>
 
             <p>
                 We are going to open the call for papers as soon we
-                open the inscritions
+                open the registration
             </p>
         </div>
 
         <div class="panel">
         <h2> Register </h2>
 
-        The Venue will have the same format as last year,
-        the kickstart will be on 15th of march.
+        <p>
+            The Venue will have the same format as last year,
+            the kickstart will be on 15th of march when we open 
+            the registrations.
+        </p>
 
         <ul>
             <li>
@@ -89,10 +100,10 @@
             <h2> Help </h2>
 
             <p>
-                We need help to do some tasks, feel free to check out 
+                We need help to do some tasks, feel free to check out
                 how on:
             </p>
-            
+
             <a href="/tasks.html">
                 Task List
             </a>
